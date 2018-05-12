@@ -1,0 +1,26 @@
+_repo: The-Miracle-Songs-of-Jesus_38599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, Wilson
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '39710'
+    url: http://www.gutenberg.org/2009/agents/39710
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Poetry'
+- !lcc 'PS'
+title: The Miracle Songs of Jesus
+url: http://www.gutenberg.org/ebooks/38599
